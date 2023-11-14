@@ -1,0 +1,14 @@
+/* google fonts added */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto&display=swap');
+
+/* Nabvar part starts */
+.navbar {
+    border-radius: 0;
+}
+.navbar-brand,.h1,.h2,.h3,.h4,.h5,.h6{
+    font-family: 'Lobster', sans-serif;
+}
+/* body part starts */
+#body{
+    padding-top: 80px;
+}
